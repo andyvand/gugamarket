@@ -28,7 +28,7 @@
     "passwordless-mongostore-openshift": "0.0.10",
     "passwordless-tokenstore":"0.0.8",
     "node-uuid":"1.4.3",
-    "mongoose":"4.12.2"
+    "mongoose":"5.7.13"
   },
   "devDependencies": {},
   "private": "false",
