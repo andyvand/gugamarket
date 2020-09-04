@@ -23,7 +23,7 @@
     "npm": ">= 1.0.0"
   },
   "dependencies": {   
-    "mongodb":"1.4.7",
+    "mongodb":"3.6.1",
     "passwordless": "~0.1.4",
     "passwordless-mongostore-openshift": "0.0.10",
     "passwordless-tokenstore":"0.0.8",
